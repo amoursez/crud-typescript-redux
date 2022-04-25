@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "name": "Sezim",
+      "lastName": "Ydyrysova",
+      "phone": 232453,
+      "id": 1
+    },
+    {
+      "name": "Sezim",
+      "lastName": "Ydyrysova",
+      "phone": 123456,
+      "id": 2
+    },
+    {
+      "name": "Nurkyz",
+      "lastName": "Kermalieva",
+      "phone": 546920204,
+      "id": 3
+    },
+    {
+      "name": "Aktan",
+      "lastName": "Bolotbekov",
+      "phone": 493842,
+      "id": 4
+    },
+    {
+      "name": "Marat",
+      "lastName": "Ismail",
+      "phone": 8384342,
+      "id": 5
+    },
+    {
+      "name": "Sed",
+      "lastName": "Ujdova",
+      "phone": 543,
+      "id": 6
+    },
+    {
+      "name": "Jojo",
+      "lastName": "Helloworld",
+      "phone": 6677435,
+      "id": 7
+    },
+    {
+      "name": "Kylie",
+      "lastName": "Jenner",
+      "phone": 78530,
+      "id": 9
+    },
+    {
+      "name": "jdjsj",
+      "lastName": "yssys",
+      "phone": 783273,
+      "id": 10
+    },
+    {
+      "name": "fjewnf",
+      "lastName": "545",
+      "phone": 65656,
+      "id": 11
+    }
+  ]
+}
